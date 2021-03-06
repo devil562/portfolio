@@ -1,0 +1,51 @@
+.ml-auto{
+  margin-left: auto !important;
+
+}
+.maindiv{
+  text-align: center;
+  padding:15% 15%;
+  background-color: ;
+}
+i{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #dc3545;
+}
+.contact{
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+}
+i:hover{
+  color: black;
+}
+.navbar a{
+  color: white;
+}
+.navbar-brand{
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.nav-link{
+  color: white;
+  font-family: sans-serif;
+}
+.navbar-nav{
+  margin-left: auto !important;
+}
+.morex{
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+}
+.contactshelf{
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+main{
+  background-image: url(1.jpg);
+  background-position: bottom;
+  background-repeat: none;
+  color: white;
+}
